@@ -41,7 +41,7 @@ QR Code Component Challenge on Frontend Mentor is the basic and entry level chal
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/ravindra135/qr-code-componet-frontend-mentor)
-<!-- - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Live Site URL: [CHECK LIVE HERE](https://ravindra135.github.io/qr-code-componet-frontend-mentor/)
 
 ## My process
 
