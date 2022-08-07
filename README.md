@@ -77,6 +77,22 @@ body {
 
 one can center div, in many ways my perference is using the display as flex. Learning about Flexbox was really fun.
 
+**#3 - Mobile Version**
+
+-> When you open this mobile version you may see, the card component is streched to the ends of display port, so to solve this, simple we add margins to the card component;
+
+```css
+.card {
+    ...
+    margin: 0 1rem;
+    /* 0 = Top and Bottom (Vertical) */
+    /* 1rem = Right and Left (Horizontal)  */
+}
+```
+
+; So as we need Right and Left to have some gap, we only added 1rem to the both sides
+
+![Margin on Both Sides](./images/sc3.jpeg)
 
 **Leave a Message with your questions and Suggestions. All are welcome!!!**
 
